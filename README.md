@@ -1,7 +1,7 @@
 #  Ij.start.canon
 
 
-[![ij.start.canon](Get-Started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](Get-Started.png)](https://can.printredir.com)
 
 The **Canon printer** which is one of the preferred printers is also popular for photo printing. Canon is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers Via **[ij.start.canon](https://ijprintersetup.github.io/)** .
 
